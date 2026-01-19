@@ -1,0 +1,28 @@
+body {
+    width: 1250px;
+    background: #ccc;
+}
+
+header {
+    background: #fff;
+    margin: 0;
+    width: 100%;
+}
+
+.header__title{
+    display: inline-block;
+    margin: 20px;
+    font-family: serif;
+}
+
+.header__title a {
+    text-decoration: none;
+    color: #ffa500;
+}
+
+main {
+    margin: 30px;
+}
+
+
+
