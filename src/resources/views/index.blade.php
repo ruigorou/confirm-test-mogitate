@@ -5,7 +5,7 @@
 @section('content')
     <div class="subtitle">
          <h2>商品一覧</h2>
-         <a  class="add_product" href="">＋商品を追加</a>
+         <a  class="add_product" href="{{ route('register') }}">＋商品を追加</a>
     </div>
     <div class="content">
         <div class="content__form">

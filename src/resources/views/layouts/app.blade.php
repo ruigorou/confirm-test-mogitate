@@ -6,6 +6,7 @@
     <title>mogitate</title>
     <link rel="stylesheet" href="{{ asset('css/sanitize.css') }}">
     <link rel="stylesheet" href="{{ asset('css/common.css') }}">
+     <link href="https://use.fontawesome.com/releases/v6.7.2/css/all.css" rel="stylesheet">
     @yield('css')
 </head>
 <body>
